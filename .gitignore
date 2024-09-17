@@ -1,0 +1,7 @@
+output
+.idea
+*.py[cod]
+log
+log_EDAD
+data
+checkpoints
